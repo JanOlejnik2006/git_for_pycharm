@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+.idea/
+.DS_Store
+PwJP-S-L01-1.pdf
