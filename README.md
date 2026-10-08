@@ -1,3 +1,7 @@
+# WERSJA DLA PYCHARMA
+
+> 🔗 Używasz VS Code? Wersja z terminalem: [git_for_python_cheat_sheet](https://github.com/JanOlejnik2006/git_for_python_cheat_sheet)
+
 # 🐍 Git + GitHub w PyCharm – ściąga krok po kroku (GUI)
 
 Ta sama instrukcja co wersja z VS Code i terminalem, tylko **klikana w PyCharmie**. Prawie wszystko robisz przyciskami, a terminal jest potrzebny sporadycznie.
